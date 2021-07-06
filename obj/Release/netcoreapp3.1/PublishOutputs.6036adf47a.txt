@@ -1,0 +1,5 @@
+C:\Users\Patryk\source\repos\TicTacToe\bin\Release\netcoreapp3.1\publish\TicTacToe.exe
+C:\Users\Patryk\source\repos\TicTacToe\bin\Release\netcoreapp3.1\publish\TicTacToe.dll
+C:\Users\Patryk\source\repos\TicTacToe\bin\Release\netcoreapp3.1\publish\TicTacToe.deps.json
+C:\Users\Patryk\source\repos\TicTacToe\bin\Release\netcoreapp3.1\publish\TicTacToe.runtimeconfig.json
+C:\Users\Patryk\source\repos\TicTacToe\bin\Release\netcoreapp3.1\publish\TicTacToe.pdb
